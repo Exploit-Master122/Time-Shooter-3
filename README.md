@@ -1,3 +1,3 @@
-# https://blobby-boi.github.io/Time-Shooter-3/
+# https://exploit-master122.github.io/Time-Shooter-3/
 ## Time Shooter 3
-An alternative link to play Time Shooter 3!
+The best time shooter version made,unblocked and deployed by me!
